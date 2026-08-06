@@ -1,4 +1,4 @@
-<h1 align="center">👋 E aí, eu sou o Valdeson Leandro</h1>
+<h1 align="center">👋 E aí, eu sou Valdeson Leandro</h1>
 
 <h3 align="center">
 💻 Desenvolvedor em formação
@@ -64,15 +64,6 @@ Apaixonado por criar aplicações modernas, APIs, plataformas web e projetos esc
 
 ---
 
-## 🌎 Contato
-
-<p>
-<a href="https://github.com/yjtank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
 <p align="center">
-⭐ Obrigado por visitar meu perfil!
+Até breve!
 </p>
