@@ -24,13 +24,13 @@ Apaixonado por criar aplicações modernas, APIs, plataformas web e projetos esc
 ### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Back-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
 ### Banco de Dados
@@ -42,7 +42,7 @@ Apaixonado por criar aplicações modernas, APIs, plataformas web e projetos esc
 ### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
