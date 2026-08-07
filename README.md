@@ -1,4 +1,4 @@
-<h1 align="center">👋 E aí, eu sou Valdeson Leandro</h1>
+<h1 align="center">👋 E aí</h1>
 
 <h3 align="center">
 💻 Desenvolvedor em formação
