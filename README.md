@@ -9,13 +9,13 @@ Sou estudante de Ciência da Computação na UNINASSAU, atualmente no 2º perío
 ### Linguagens e desenvolvimento web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js" />
 </p>
 
 ### Banco de dados e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 Também estudo SQL, banco de dados, Scrum, Kanban, UI e UX.
